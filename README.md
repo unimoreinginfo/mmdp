@@ -1,2 +1,3 @@
 # Multimedia Data Processing
-Exercices  from Multimedia Data Procesing course 
+
+Multimedia Data Processing solved exams and exercises.
